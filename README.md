@@ -1,6 +1,7 @@
 ### Vinicius Navarro
 
-Opero mercado financeiro com capital próprio desde 2017 (B3, foco em derivativos). Antes, 10 anos como sócio na gestão financeira de uma construtora e incorporadora na Região dos Lagos (RJ). Administração dos empreendimentos entregues segue ativa.
+Opero mercado financeiro com capital próprio desde 2017. Antes, 10 anos como sócio na gestão financeira de uma construtora e incorporadora.
+
 Faço o MBA Data Science e Analytics da USP/ESALQ. Resolvi não esperar ele terminar pra começar a fazer. Aprendi a tomar decisão sob restrição com número incompleto — quero aplicar isso de forma estruturada, com método e dados públicos.
 
 Faço o MBA Data Science e Analytics da USP/ESALQ. Resolvi não esperar ele terminar pra começar a fazer. Aprendi a tomar decisão sob restrição com número incompleto — quero aplicar isso de forma estruturada, com método e dados públicos
