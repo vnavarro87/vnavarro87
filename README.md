@@ -4,7 +4,6 @@ Opero mercado financeiro com capital próprio desde 2017. Antes, 10 anos como s�
 
 Faço o MBA Data Science e Analytics da USP/ESALQ. Resolvi não esperar ele terminar pra começar a fazer. Aprendi a tomar decisão sob restrição com número incompleto — quero aplicar isso de forma estruturada, com método e dados públicos.
 
-Faço o MBA Data Science e Analytics da USP/ESALQ. Resolvi não esperar ele terminar pra começar a fazer. Aprendi a tomar decisão sob restrição com número incompleto — quero aplicar isso de forma estruturada, com método e dados públicos
 
 #### Série em construção: agro de Rondônia em quatro lentes
 
