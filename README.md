@@ -1,8 +1,8 @@
 ### Vinicius Navarro
 
-Opero mercado financeiro com capital próprio desde 2017. Antes, 10 anos como sócio na gestão financeira de uma construtora e incorporadora.
+Opero mercado financeiro com capital próprio desde 2018. Antes, 10 anos na gestão financeira de uma construtora e incorporadora.
 
-Faço o MBA Data Science e Analytics da USP/ESALQ. Resolvi não esperar ele terminar pra começar a fazer. Aprendi a tomar decisão sob restrição com número incompleto — quero aplicar isso de forma estruturada, com método e dados públicos.
+Mais de 15 anos gerindo risco e decidindo sob incerteza, com número incompleto. Estes projetos são esse jeito de pensar virando código: dado público, método explícito, tudo auditável.
 
 
 #### Série em construção: agro de Rondônia em quatro lentes
@@ -13,6 +13,10 @@ Faço o MBA Data Science e Analytics da USP/ESALQ. Resolvi não esperar ele term
 - **pegada-ambiental-ro** — uso da terra, fogo e degradação de pasto *(próximo da série)*
 
 Stack: Python · Streamlit · Plotly · pandas · geopandas. Dados públicos (IBGE, BCB, CONAB, INPE, IBAMA, USDA, MapBiomas).
+
+#### Fora da série
+
+- **[estudai](https://github.com/vnavarro87/estudai)** — assistente de estudos para o MBA. RAG híbrido (semântico + BM25) sobre o próprio material do aluno: responde citando matéria, professor, seção e página, sem extrapolar — e gera simulados, guias e exercícios práticos. Stack: Claude · Voyage · ChromaDB · Streamlit. Privacidade por design (cada pessoa indexa o próprio material).
 
 #### Como me encontrar
 
