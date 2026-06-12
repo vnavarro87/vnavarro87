@@ -16,7 +16,7 @@ Stack: Python · Streamlit · Plotly · pandas · geopandas. Dados públicos (IB
 
 #### Fora da série
 
-- **[estudai](https://github.com/vnavarro87/estudai)** — assistente de estudos para o MBA. RAG híbrido (semântico + BM25) sobre o próprio material do aluno: responde citando matéria, professor, seção e página, sem extrapolar — e gera simulados, guias e exercícios práticos. Stack: Claude · Voyage · ChromaDB · Streamlit. Privacidade por design (cada pessoa indexa o próprio material).
+- **[estudai](https://github.com/vnavarro87/estudai)** — assistente pessoal de estudos em Data Science. RAG híbrido (semântico + BM25) sobre o próprio material do aluno: responde citando matéria, professor, seção e página, sem extrapolar — e gera simulados, guias e exercícios práticos. Stack: Claude · Voyage · ChromaDB · Streamlit. Privacidade por design (cada pessoa indexa o próprio material).
 
 #### Como me encontrar
 
