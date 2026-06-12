@@ -14,10 +14,6 @@ Mais de 15 anos gerindo risco e decidindo sob incerteza, com número incompleto.
 
 Stack: Python · Streamlit · Plotly · pandas · geopandas. Dados públicos (IBGE, BCB, CONAB, INPE, IBAMA, USDA, MapBiomas).
 
-#### Fora da série
-
-- **[estudai](https://github.com/vnavarro87/estudai)** — assistente pessoal de estudos em Data Science. RAG híbrido (semântico + BM25) sobre o próprio material do aluno: responde citando matéria, professor, seção e página, sem extrapolar — e gera simulados, guias e exercícios práticos. Stack: Claude · Voyage · ChromaDB · Streamlit. Privacidade por design (cada pessoa indexa o próprio material).
-
 #### Como me encontrar
 
 - LinkedIn: [linkedin.com/in/vinicius-navarro](https://www.linkedin.com/in/vinicius-navarro)
